@@ -12,4 +12,9 @@ Creating a new environment
 conda create -p venv python==3.7 -y
 ```
 
-5. pip install -r requirements.txt
+Creating a requirements.txt file, to install the required libraries from this file all at once
+```
+pip install -r requirements.txt
+```
+
+
